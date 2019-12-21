@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
     
-    nested = [
+    assembled_matrix = [
           CONVENTIONAL_PRODUCE, 
           ORGANIC_PRODUCE 
           ]
@@ -32,7 +32,7 @@ end
 
 def sorted_matrix
   
-  sorted_nest = [
+  sorted_matrix = [
         CONVENTIONAL_PRODUCE.sort(), 
         ORGANIC_PRODUCE.sort()
     ]
