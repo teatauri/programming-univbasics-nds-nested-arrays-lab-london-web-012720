@@ -18,9 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
     
-    [[ "Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant" ],
-    
-    [ "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
+    nested = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
     
     
   # Build an array that contains both of the above arrays
