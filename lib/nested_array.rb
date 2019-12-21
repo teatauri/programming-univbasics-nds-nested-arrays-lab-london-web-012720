@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
     
-   a =  [[ "Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant" ],
+   nested =  [[ "Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant" ],
     
     [ "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
     
