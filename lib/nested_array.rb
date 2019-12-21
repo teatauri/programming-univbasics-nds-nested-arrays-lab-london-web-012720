@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
     
-    nested = [ORGANIC_PRODUCE, ORGANIC_PRODUCE]
+    nested = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUC]
     
     
   # Build an array that contains both of the above arrays
